@@ -1,6 +1,5 @@
 version: 2.1
 
-# Test
 jobs:
   build:
     working_directory: ~/ExampleApplication
